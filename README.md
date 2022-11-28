@@ -11,3 +11,6 @@ One of our clients, bombabomba.com, decided to test this new feature and would l
 * Click Number of clicks on the displayed ad
 * Purchase Number of products purchased after the ads were clicked
 * Earning Earnings after purchased products
+
+----------------------------
+Picture source: <a href="http://www.freepik.com">Designed by macrovector / Freepik</a>
